@@ -1,4 +1,4 @@
-# Sample AEM project template
+> **This repository has moved.** It now lives in [`techforum-samples/aem/aem-submodules-demo/project2`](https://github.com/techforum-repo/techforum-samples/tree/master/aem/aem-submodules-demo/project2), with its full commit history. This repo is archived and read-only (cloning with `--recurse-submodules` still works).# Sample AEM project template
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
